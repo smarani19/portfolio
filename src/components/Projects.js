@@ -15,21 +15,25 @@ export const Projects = () => {
       title: "TedX VIT Bhopal (Ongoing)",
       description: "The official website of TEDx VIT Bhopal chapter using React ",
       imgUrl: projImg1,
+      proj_link: "https://github.com/TEDxVITBhopal/tedxvitbhopal",
     },
     {
       title: "InYourBelly (OnGoing) ",
       description: "A food ordering delivery app built for UnderBelly - the VIT Bhopal food zone using React",
       imgUrl: projImg2,
+      proj_link:"https://github.com/smarani19",
     },
     {
       title: "Friendly Footprint",
       description: "A website for selling eco friendly products using HTML,CSS, Bootstrap,Python,SQLalchemy,Flask",
       imgUrl: projImg3,
+      proj_link:"https://github.com/smarani19/friendly-footprint",
     },
     {
       title: "IDS for DOS Attack",
       description: "Development of a scanner to detect DOS attack on a website using our own developed algorithm",
       imgUrl: projImg5,
+      proj_link:"" ,
     },
  
   ];
