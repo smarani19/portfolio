@@ -6,7 +6,6 @@ import ceh from "../assets/img/ceh.jpg";
 import linkedin from "../assets/img/linkedin.png";
 import codered from "../assets/img/codered.jpeg";
 import aws from "../assets/img/aws.png";
-import sl from "../assets/img/sl.jpg";
 import fortinet from "../assets/img/fortinet.jpg";
 
 import Carousel from 'react-multi-carousel';
@@ -74,16 +73,12 @@ export const Certifications = () => {
                                 <h5>Digital Forensic Essentials</h5>
                             </div>
                             <div className="item">
-                                <img src={sl} alt="sololearn" />
-                                <h5>Introduction to HTML, JAVA</h5>
-                            </div>
-                            <div className="item">
                                 <img src={fortinet} alt="EthicalHacking" />
                                 <h5>NSE1 , NSE2</h5>
                             </div>
                             <div className="item">
                                 <img src={aws} alt="EthicalHacking" />
-                                <h5>AWS Secuirty Fundamentals</h5>
+                                <h5>AWS Security Fundamentals</h5>
                             </div>
                         </Carousel>
                     </div>
