@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import DownloadForOfflineIcon from '@mui/icons-material/DownloadForOffline';
 import headerImg from "../assets/img/react.svg";
-import resume from "../assets/20BCY10179_new.pdf"; 
+import resume from "../assets/20BCY10179.pdf"; 
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
